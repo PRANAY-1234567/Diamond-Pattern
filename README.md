@@ -1,4 +1,5 @@
 📘 Diamond Star Pattern Program (Python)
+
 📌 Overview
 
 This Python program prints a Diamond Star (*) Pattern using loops and string multiplication.
