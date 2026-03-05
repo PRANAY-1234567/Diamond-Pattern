@@ -110,3 +110,5 @@ Use arithmetic expressions in pattern design
 Combine multiple loops effectively
 
 Think in terms of row-by-row visual logic
+
+<img width="650" height="871" alt="image" src="https://github.com/user-attachments/assets/6931f191-533b-4284-9138-b3c51dd823c8" />
